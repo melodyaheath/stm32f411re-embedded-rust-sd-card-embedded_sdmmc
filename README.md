@@ -6,6 +6,7 @@ Quick Pinout Guide
 | Nucleo-F411RE Pin | SGP30 Pin   |
 |-------------------|-------------|
 | 5V                | Vin/5V      |
+| GND               | GND         |
 | PA5               | SCK         |
 | PA6               | MISO        |
 | PA7               | MOSI        |
